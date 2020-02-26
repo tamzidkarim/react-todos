@@ -1,2 +1,2 @@
-# traversy-react-crashcourse
+# react-todos
 Created with CodeSandbox
